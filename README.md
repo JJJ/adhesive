@@ -1,2 +1,2 @@
 # adhesive
-Some glue to hold your WordPress pieces together
+Some glue to hold the pieces together
